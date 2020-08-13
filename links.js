@@ -1,7 +1,6 @@
 let links = [
-    "https://www.google.com/",
-    "https://www.wikipedia.org/",
-    "https://www.bing.com/",
+    "https://wa.me/918075363538",
+    "https://wa.me/918075803822",
 
     // Add links like this
 
