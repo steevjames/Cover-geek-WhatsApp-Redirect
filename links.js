@@ -1,7 +1,5 @@
 let links = [
     "https://wa.me/918075363538",
-    "https://wa.me/918848089014",
-
-    // Add links like this
+     // Add links like this
 
 ];
